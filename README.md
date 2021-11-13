@@ -7,10 +7,11 @@ This is the project for Introduction to Robotics The task of the project is to s
 
 Steps to start the simulation
 1. Create your catkin_ws/src folder
-2. Cmake the folder
-3. Download or clone the repository in your cakin_ws/src directory
-4. Extract the ur5_ROS-Gazebo.tar.gz file
-5. Once extracting is done, open a new terminal to run the simulation
-6. cd ..
-7. catkin_ws/source devel/setup.bash
-8. catkin_ws/roslaunch ur5_notebook initialize.launch
+2. Clone Universal Robots repository in the src folder
+3. Cmake the folder
+4. Download or clone the repository in your cakin_ws/src directory
+5. Extract the ur5_ROS-Gazebo.tar.gz file
+6. Once extracting is done, open a new terminal to run the simulation
+7. cd ..
+8. catkin_ws/source devel/setup.bash
+9. catkin_ws/roslaunch ur5_notebook initialize.launch
