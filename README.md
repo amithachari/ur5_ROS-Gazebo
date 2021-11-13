@@ -16,3 +16,8 @@ Steps to start the simulation
 8. cd ..
 9. catkin_ws/source devel/setup.bash
 10. catkin_ws/roslaunch ur5_notebook initialize.launch
+
+
+
+
+Youtube Simulation Link: https://youtu.be/z3ztrZD9du4
