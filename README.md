@@ -8,7 +8,7 @@ This is the project for Introduction to Robotics The task of the project is to s
 Steps to start the simulation
 1. Create your catkin_ws/src folder
 2. Cmake the folder
-3. Download the ur5_ROS_Gazebo_src folder
+3. Download the ur5_gazebo_src folder
 4. Extract it in catkin_ws/src folder
 5. Go back to catkin_ws and catkin_make
 6. cd ..
