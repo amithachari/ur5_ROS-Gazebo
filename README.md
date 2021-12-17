@@ -17,4 +17,4 @@ Steps to start the simulation
 10. catkin_ws$ roslaunch ur_gazebo ur5_initialize.launch
 
 
-Youtube Simulation Link: https://youtu.be/z3ztrZD9du4
+Youtube Simulation Link: https://www.youtube.com/watch?v=bSLL_NA9660
